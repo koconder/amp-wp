@@ -11,6 +11,7 @@
 	</style>
 </head>
 <body>
+<?php do_action( 'amp_post_template_body', $this ); ?>
 <?php $this->load_parts( array( 'header-bar' ) ); ?>
 <div class="amp-wp-content">
 	<h1 class="amp-wp-title"><?php echo wp_kses_data( $this->get( 'post_title' ) ); ?></h1>
