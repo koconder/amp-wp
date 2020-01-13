@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dd3f64eacf6ebce4c7df6acdaa8070e0",
+    "content-hash": "0a077fd67a27dbe4d985c0c6d3f813c3",
     "packages": [
         {
             "name": "cweagans/composer-patches",
@@ -148,9 +148,6 @@
                 "parser",
                 "stylesheet"
             ],
-            "support": {
-                "source": "https://github.com/xwp/PHP-CSS-Parser/tree/8.2.1"
-            },
             "time": "2019-02-22T07:42:52+00:00"
         },
         {
@@ -382,12 +379,12 @@
             "version": "2.1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards.git",
+                "url": "https://github.com/WordPress/WordPress-Coding-Standards.git",
                 "reference": "bd9c33152115e6741e3510ff7189605b35167908"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress-Coding-Standards/WordPress-Coding-Standards/zipball/bd9c33152115e6741e3510ff7189605b35167908",
+                "url": "https://api.github.com/repos/WordPress/WordPress-Coding-Standards/zipball/bd9c33152115e6741e3510ff7189605b35167908",
                 "reference": "bd9c33152115e6741e3510ff7189605b35167908",
                 "shasum": ""
             },
@@ -424,16 +421,16 @@
         },
         {
             "name": "xwp/wp-dev-lib",
-            "version": "1.1.2",
+            "version": "1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/xwp/wp-dev-lib.git",
-                "reference": "d8207e7cf749eaba5de5fb45c49cf7408ba741b6"
+                "reference": "86cc5e69b072804c066d10e9008d1576e26aa3cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/xwp/wp-dev-lib/zipball/d8207e7cf749eaba5de5fb45c49cf7408ba741b6",
-                "reference": "d8207e7cf749eaba5de5fb45c49cf7408ba741b6",
+                "url": "https://api.github.com/repos/xwp/wp-dev-lib/zipball/86cc5e69b072804c066d10e9008d1576e26aa3cf",
+                "reference": "86cc5e69b072804c066d10e9008d1576e26aa3cf",
                 "shasum": ""
             },
             "type": "library",
@@ -458,7 +455,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2019-06-05T20:06:16+00:00"
+            "time": "2020-01-09T12:33:32+00:00"
         }
     ],
     "aliases": [],
